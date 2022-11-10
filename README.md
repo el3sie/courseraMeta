@@ -1,0 +1,2 @@
+# courseraMeta
+Completed final projects 
